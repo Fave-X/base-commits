@@ -27,3 +27,4 @@ Check your on-chain activity score via tools like onchainscore.xyz.
 Aim for consistent, organic transactions rather than spam to build genuine footprint.
 Bridge assets back to Ethereum or other chains when needed using the same bridges.
 Monitor Base ecosystem directory at base.org/ecosystem for new projects.
+Follow official @base and @buildonbase accounts for announcements and events.
