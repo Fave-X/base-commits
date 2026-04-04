@@ -14,4 +14,4 @@ Swap tokens on integrated DEXs like Uniswap or Aerodrome directly in the app.
 Trade on GeckoTerminal via the Base App Trade tab for mobile-first charting
 Provide liquidity on Aerodrome — the leading Base DEX for yield farming.
 Lend and borrow assets on Aave to generate on-chain activity.
-
+Stake or farm on other DeFi protocols active on Base for points and rewards.
