@@ -8,4 +8,4 @@ Use alternative bridges like Rhino.fi, Stargate, or Wormhole for multi-chain ent
 Withdraw assets directly from Coinbase exchange to Base network if supported.
 Switch your wallet network to Base Mainnet (Chain ID: 8453).
 Add Base manually in MetaMask: RPC https://mainnet.base.org, explorer basescan.org.
-
+Fund your wallet with small amounts of ETH for gas (Base fees are very low)
