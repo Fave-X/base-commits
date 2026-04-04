@@ -10,3 +10,5 @@ Switch your wallet network to Base Mainnet (Chain ID: 8453).
 Add Base manually in MetaMask: RPC https://mainnet.base.org, explorer basescan.org.
 Fund your wallet with small amounts of ETH for gas (Base fees are very low)
 Explore the Explore tab in the Base App for trending dApps and mini-apps.
+Swap tokens on integrated DEXs like Uniswap or Aerodrome directly in the app.
+
