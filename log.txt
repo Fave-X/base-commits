@@ -24,3 +24,4 @@ Register your dApp or project on Base’s developer portal for visibility.
 Build or test simple agents using on-chain skills available on Vercel’s skills.sh.
 Participate in Agent Commerce Protocol sessions and demos for AI-on-Base plays.
 Check your on-chain activity score via tools like onchainscore.xyz.
+Aim for consistent, organic transactions rather than spam to build genuine footprint.
