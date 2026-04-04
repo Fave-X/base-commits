@@ -3,3 +3,4 @@ Download the official Base App (rebranded Coinbase Wallet super app).
 Create or import a self-custody wallet inside the Base App.
 Add your X and GitHub profiles in the app for better on-chain reputation.
 Mint a Basename (your .base name) for identity on the network.
+Bridge ETH or USDC from Ethereum mainnet via the official bridge.base.org.
