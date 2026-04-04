@@ -12,3 +12,4 @@ Fund your wallet with small amounts of ETH for gas (Base fees are very low)
 Explore the Explore tab in the Base App for trending dApps and mini-apps.
 Swap tokens on integrated DEXs like Uniswap or Aerodrome directly in the app.
 Trade on GeckoTerminal via the Base App Trade tab for mobile-first charting
+Provide liquidity on Aerodrome — the leading Base DEX for yield farming.
