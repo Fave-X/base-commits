@@ -21,3 +21,5 @@ Use Base Pay for peer-to-peer transfers and everyday on-chain payments.
 Engage with social features: chat, discover friends, and creator coins in the Base App.
 Interact with Farcaster mini-apps or standard web apps now supported in Base App (post-April 2026 updates).
 Register your dApp or project on Base’s developer portal for visibility.
+Build or test simple agents using on-chain skills available on Vercel’s skills.sh.
+
