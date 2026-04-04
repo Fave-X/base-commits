@@ -17,3 +17,4 @@ Lend and borrow assets on Aave to generate on-chain activity.
 Stake or farm on other DeFi protocols active on Base for points and rewards.
 Mint free or low-cost NFTs on platforms like Mint.fun or ecosystem partners.
 Complete on-chain quests via Galxe, Layer3, or Base’s Onchain Summer-style campaigns.
+Use Base Pay for peer-to-peer transfers and everyday on-chain payments.
