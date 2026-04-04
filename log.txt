@@ -7,3 +7,5 @@ Bridge ETH or USDC from Ethereum mainnet via the official bridge.base.org.
 Use alternative bridges like Rhino.fi, Stargate, or Wormhole for multi-chain entry.
 Withdraw assets directly from Coinbase exchange to Base network if supported.
 Switch your wallet network to Base Mainnet (Chain ID: 8453).
+Add Base manually in MetaMask: RPC https://mainnet.base.org, explorer basescan.org.
+
