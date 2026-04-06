@@ -1,4 +1,3 @@
-
 Download the official Base App (rebranded Coinbase Wallet super app).
 Create or import a self-custody wallet inside the Base App.
 Add your X and GitHub profiles in the app for better on-chain reputation.
