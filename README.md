@@ -1,1 +1,1 @@
-Just a rundown of 100 ways to interact with BASE blockchain
+Just a rundown of 100 ways on how to interact with BASE blockchain.
