@@ -47,7 +47,4 @@ nteract with autonomous agents via protocols like Virtuals Protocol.
 Mint commemorative NFTs for bridging or completing key milestones.
 Participate in governance or voting if ecosystem DAOs launch on Base.
 Track gas usage and optimize transactions during low network congestion.
-
-
-
-
+Connect your wallet to dApps via WalletConnect or direct Base App browser.
