@@ -43,3 +43,5 @@ Earn rewards through liquidity pools, staking, and yield strategies on Base.
 Discover new DeFi gems by exploring trending pairs on Aerodrome.
 Use the Base App wallet tab to manage all your on-chain positions.
 Enable beta features in the Base App for early access to updates.
+nteract with autonomous agents via protocols like Virtuals Protocol.
+
