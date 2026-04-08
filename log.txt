@@ -27,3 +27,4 @@ Aim for consistent, organic transactions rather than spam to build genuine footp
 Bridge assets back to Ethereum or other chains when needed using the same bridges.
 Monitor Base ecosystem directory at base.org/ecosystem for new projects.
 Follow official @base and @buildonbase accounts for announcements and events.
+Join live spaces or AMAs hosted by Base Build on topics like AI agents or security.
