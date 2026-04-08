@@ -30,3 +30,4 @@ Follow official @base and @buildonbase accounts for announcements and events.
 Join live spaces or AMAs hosted by Base Build on topics like AI agents or security.
 Use Coinbase’s on-ramp for easy fiat-to-Base deposits.
 Experiment with onchainkit alternatives now that legacy tools are sunsetting.
+Create your own NFT collection with AI-assisted deployment tools on Base.
