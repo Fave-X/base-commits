@@ -35,3 +35,5 @@ Perform “7-in-1” bundled on-chain actions for efficient activity boosting.
 Verify your wallet with Coinbase Onchain Verify for additional signaling.
 Trade emerging Base tokens spotted on GeckoTerminal or CoinGecko.
 Provide feedback on Base tools and migration guides to help the ecosystem.
+Join community ambassador or DevRel programs if you’re a builder.
+
