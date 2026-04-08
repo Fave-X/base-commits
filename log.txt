@@ -40,3 +40,5 @@ Protect assets using security tools like Hexagate by Chainalysis.
 Engage with music, art, gaming, and advocacy quests in Onchain Summer revivals.
 Swap across chains seamlessly using multi-chain tools integrated with Base.
 Earn rewards through liquidity pools, staking, and yield strategies on Base.
+Discover new DeFi gems by exploring trending pairs on Aerodrome.
+
